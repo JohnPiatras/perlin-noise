@@ -1,8 +1,3 @@
-//resources
-// https://gpfault.net/posts/perlin-noise.txt.html
-// http://eastfarthing.com/blog/2015-04-21-noise/
-// https://flafla2.github.io/2014/08/09/perlinnoise.html
-// https://www.shadertoy.com/view/4tGSzW
 
 var PerlinNoiseGenerator = function(){
     // Hash lookup table for picking gradient vectors as defined by Ken Perlin.  This is a randomly
